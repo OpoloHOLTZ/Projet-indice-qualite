@@ -1,3 +1,14 @@
+A savoir:
+Il faudra ajouter un fichier config.py dans le répertoire avec ceci:
+# API atmo
+username = "******"
+mdp = "******"
+
+# user MySQL
+user_opolo = "******"
+password = "******"
+
+
 Voici les étapes pour exécuter l'application sur vos ordinateur:
 
 1. Clonez le dépôt Git sur votre ordinateur en utilisant la commande : git clone https://github.com/OpoloHOLTZ/Projet-indice-qualite.git
